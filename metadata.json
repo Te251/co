@@ -1,0 +1,6 @@
+{
+  "name": "(주)메디핏 | MEDIFIT",
+  "description": "인간과 수인이 공존하는 현대사회의 정밀 바이오 헬스케어 및 3등급 의료기기 전문 기업 (주)메디핏의 기업 소개 및 핵심 인력 디렉토리입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
